@@ -1,0 +1,12 @@
+.custom-hero-banner{
+  text-align: center;
+  color: purple;
+}
+
+a.account-link.sign-in{
+	display:none !important;
+}
+
+.at-signup-link{
+	display:none !important;
+}
